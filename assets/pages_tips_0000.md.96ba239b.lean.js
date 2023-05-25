@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as n,a}from"./app.ac31de01.js";const o=JSON.parse('{"title":"什么是字符实体","description":"","frontmatter":{},"headers":[],"relativePath":"pages/tips/0000.md","lastUpdated":null}'),l={name:"pages/tips/0000.md"},d=a("",14),s=[d];function r(c,p,i,g,y,x){return n(),e("div",null,s)}const h=t(l,[["render",r]]);export{o as __pageData,h as default};
